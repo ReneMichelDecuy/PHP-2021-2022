@@ -1,0 +1,29 @@
+.couleur{
+    color:#06c223;
+}
+h2{
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+}
+a{
+    color:black;
+    text-decoration-line:none;
+}
+span{
+    display: block;
+    margin-bottom: 0.5em;
+}
+span.rouge{
+    background-color: red;
+    color: white;
+}
+span.bleu{
+    background-color: blue;
+    color:white;
+}
+span.red{
+    color:red;
+}
+span.purple{
+    color: purple;
+}
